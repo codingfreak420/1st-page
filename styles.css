@@ -8,5 +8,5 @@ body { background-image: url(https://www.wallpaperflare.com/static/566/789/234/c
 
 body h1, body p, body figcaption, body h3, body ul, body cite {color: white;}
 
-#image {margin-left: auto; margin-right: auto;}
-#main { max-width: 1140px; margin: auto;}
+image {margin-left: auto; margin-right: auto;}
+main { max-width: 1140px; margin: auto;}
